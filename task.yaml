@@ -1,0 +1,8 @@
+name: Say Hello
+inputs:
+  - name: name
+    type: string
+    required: false
+outputs:
+  - name: Greeting
+    type: string
