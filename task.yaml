@@ -1,6 +1,6 @@
 name: Say Hello 👋
 inputs:
-  - name: name
+  - name: Name
     type: string
     required: false
 outputs:
